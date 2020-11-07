@@ -1,0 +1,2 @@
+# Dog_breed_classification
+This project was part of Nano-degree curriculum. Project's aim is to classify the different breeds of dogs correctly. Project is capable of predicting the correct breed of dog with an accuracy of 83%. This project can be scaled up and used in real world problems. This project require less hardware and it is light weight. PyTorch framework and various image processing libraries was used in this project. This project is easy to understand.
